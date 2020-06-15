@@ -1,0 +1,5 @@
+﻿Microsoft Windows [版本 10.0.16299.547]
+(c) 2017 Microsoft Corporation。保留所有权利。
+DEBUG: FC_WEIGHT didn't match
+Runtime is 1.378608 second.
+octave:2>
